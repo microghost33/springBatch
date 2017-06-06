@@ -1,10 +1,10 @@
-<%-- Created by IntelliJ IDEA. --%>
+<%-- Created by Ghost33. --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
     <title></title>
   </head>
   <body>
-<p>Lol</p>
+<p>test</p>
   </body>
 </html>
